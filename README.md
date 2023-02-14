@@ -6,3 +6,5 @@ My THM journey
 - Introduction to Defensive Security
 - Areas of Defensive Security
 - Practical Examples of Defensive Security
+
+[2_Badge_Completing 4 Rooms](https://www.linkedin.com/posts/rodney-jacolo_rodneycj-was-awarded-a-badge-activity-7013047934111944704-lESx?utm_source=share&utm_medium=member_desktop)
