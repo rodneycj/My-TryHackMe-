@@ -1,5 +1,5 @@
 # My-TryHackMe-
-My THM journey
+My THM ongoing project
 
 [1_Intro to Defensive Security](https://www.linkedin.com/posts/rodney-jacolo_tryhackme-cyber-security-training-activity-7012948513206546432-fUok?utm_source=share&utm_medium=member_desktop)
 
