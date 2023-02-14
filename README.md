@@ -22,3 +22,9 @@ My THM ongoing project
 - Introduction To Digital Forensics
 - Digital Forensics Process
 - Practical Example of Digital Forensics
+
+[6_Security Operations](https://www.linkedin.com/posts/rodney-jacolo_tryhackme-cyber-security-training-activity-7015942190535249920-ZD7X?utm_source=share&utm_medium=member_desktop)
+
+- Introduction to Security Operations
+- Elements of Security Operations
+- Practical Example of SOC
