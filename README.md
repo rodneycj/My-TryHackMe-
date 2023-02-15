@@ -24,3 +24,16 @@ My THM ongoing project
 - Introduction to Security Operations
 - Elements of Security Operations
 - Practical Example of SOC
+
+[7_OSI Model](https://www.linkedin.com/posts/rodney-jacolo_tryhackme-cyber-security-training-activity-7017621321572388864-1Mcr?utm_source=share&utm_medium=member_desktop)
+
+- What is the OSI Model?
+- Layer 7 - Application
+- Layer 6 - Presentation
+- Layer 5 - Session
+- Layer 4 - Transport
+- Layer 3 - Network
+- Layer 2 - Data Link
+- Layer 1 - Physical
+- Practical - OSI Game
+- Continue Your Learning: Packets & Frames
