@@ -60,3 +60,26 @@ My THM ongoing project
 - LAN Networking Devices
 - Practical - Network Simulator
 
+[11_BADGE: Networking Fundamentals!](https://www.linkedin.com/posts/rodney-jacolo_rodneycj-was-awarded-a-badge-activity-7025218922832437248-Wwdk?utm_source=share&utm_medium=member_desktop)
+
+[12_DNS in Detail](https://www.linkedin.com/posts/rodney-jacolo_tryhackme-dns-in-detail-activity-7025250516678967296-q06t?utm_source=share&utm_medium=member_desktop)
+- What is DNS?
+- Domain Hierarchy
+- Record Types
+- Making A Request
+- Practical
+
+[13_How Websites Work](https://www.linkedin.com/posts/rodney-jacolo_tryhackme-cyber-security-training-activity-7028236903762067456-UFmS?utm_source=share&utm_medium=member_desktop)
+- How websites work
+- HTML
+- JavaScript
+- Sensitive Data Exposure
+- HTML Injection
+
+[14_Putting It All Together](https://www.linkedin.com/posts/rodney-jacolo_tryhackme-cyber-security-training-activity-7028416030314033152-SAC2?utm_source=share&utm_medium=member_desktop)
+- Putting It All Together
+- Other Components
+- How Web Servers Work
+- Quiz
+
+[15_BADGE: How The Web Works!](https://www.linkedin.com/posts/rodney-jacolo_rodneycj-was-awarded-a-badge-activity-7028419599398289408-VVBt?utm_source=share&utm_medium=member_desktop)
