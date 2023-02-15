@@ -26,7 +26,6 @@ My THM ongoing project
 - Practical Example of SOC
 
 [7_OSI Model](https://www.linkedin.com/posts/rodney-jacolo_tryhackme-cyber-security-training-activity-7017621321572388864-1Mcr?utm_source=share&utm_medium=member_desktop)
-
 - What is the OSI Model?
 - Layer 7 - Application
 - Layer 6 - Presentation
@@ -37,3 +36,27 @@ My THM ongoing project
 - Layer 1 - Physical
 - Practical - OSI Game
 - Continue Your Learning: Packets & Frames
+
+[8_Intro to LAN](https://www.linkedin.com/posts/rodney-jacolo_tryhackme-intro-to-lan-activity-7021312160056188928-Svfc?utm_source=share&utm_medium=member_desktop)
+- Introducing LAN Topologies
+- A Primer on Subnetting
+- The ARP Protocol
+- The DHCP Protocol
+- Continue Your Learning: OSI Model
+
+[9_Packets & Frames](https://www.linkedin.com/posts/rodney-jacolo_tryhackme-cyber-security-training-activity-7022446693921021952-xIxi?utm_source=share&utm_medium=member_desktop)
+- What are Packets and Frames
+- TCP/IP (The Three-Way Handshake)
+- Practical - Handshake
+- UDP/IP
+- Ports 101 (Practical)
+- Continue Your Learning: Extending Your Network
+
+[10_Extending Your Network](https://www.linkedin.com/posts/rodney-jacolo_tryhackme-cyber-security-training-activity-7025215909057236992-INQ9?utm_source=share&utm_medium=member_desktop)
+- Introduction to Port Forwarding
+- Firewalls 101
+- Practical - Firewall
+- VPN Basics
+- LAN Networking Devices
+- Practical - Network Simulator
+
