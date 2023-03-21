@@ -1,4 +1,4 @@
-# My-TryHackMe-Journey1
+# TryHackMe: Intro into Cybersecurity
 [CERTIFICATE: Intro-into-Cyber-Security](https://www.linkedin.com/posts/rodney-jacolo_glad-to-share-my-thm-intro-int-cyber-security-activity-7031437762138370048-ETPE?utm_source=share&utm_medium=member_desktop)
 
 [1_Intro to Defensive Security](https://www.linkedin.com/posts/rodney-jacolo_tryhackme-cyber-security-training-activity-7012948513206546432-fUok?utm_source=share&utm_medium=member_desktop)
